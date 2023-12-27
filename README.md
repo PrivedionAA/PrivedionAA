@@ -9,8 +9,6 @@
 ![Cygwin](https://img.shields.io/badge/-Cygwin-000000?style=for-the-badge&logo=v)
 ![Charles](https://img.shields.io/badge/-Charles-000000?style=for-the-badge&logo=Charles)
 ![wireshark](https://img.shields.io/badge/-wireshark-000000?style=for-the-badge&logo=wireshark)
-![Apidoc](https://img.shields.io/badge/-Apidoc-000000?style=for-the-badge&logo=Apidoc)
-![Apidoc](https://img.shields.io/badge/-Apidoc-000000?style=for-the-badge&logo=Apidoc)
 ![PuTTY](https://img.shields.io/badge/-PuTTY-000000?style=for-the-badge&logo=PuTTY)
 
 ## Контакты
