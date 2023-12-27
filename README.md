@@ -13,4 +13,6 @@
 ![Apidoc](https://img.shields.io/badge/-Apidoc-000000?style=for-the-badge&logo=Apidoc)
 ![PuTTY](https://img.shields.io/badge/-PuTTY-000000?style=for-the-badge&logo=PuTTY)
 
-Follow me
+## Контакты
+![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail)](https://mail.google.com/mail/u/0/#inbox?compose=new)
