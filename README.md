@@ -12,10 +12,5 @@
 ![PuTTY](https://img.shields.io/badge/-PuTTY-000000?style=for-the-badge&logo=PuTTY)
 
 ## Контакты
-<<<<<<< HEAD
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/aprivedion)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail)](https://mail.google.com/mail/u/0/#inbox?compose=new)
-=======
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)]((https://t.me/aprivedion))
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail)](https://mail.google.com/mail/u/0/#inbox?compose=new)
->>>>>>> 9018c5e0545e7f06a0c7119be4901a0852479c41
