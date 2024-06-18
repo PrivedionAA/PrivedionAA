@@ -13,4 +13,4 @@
 
 ## Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/aprivedion)
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail)]([https://mail.google.com/mail/u/0/#inbox?compose=new](https://mail.google.com/mail/u/2/#inbox?compose=new))
